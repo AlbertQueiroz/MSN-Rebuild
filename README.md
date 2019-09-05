@@ -8,7 +8,7 @@
 ## How to use?
 ```iOS
 Open your git bash
-git clone https://github.com/ViniciusDeep/NBA-Fantasy
+git clone https://github.com/AlbertQueiroz/MSN-Rebuild
 git pull
 Ready!
 ```
