@@ -2,7 +2,7 @@
 
 * Windows Live Messenger Redesign Concept created with Swift using UIKit.
 * for Apple Developer Academy - Foundation.
-* Made by beginner's, just for pacticing.
+* Made by beginner's, just for practicing.
 * First Challenge. First Swift Application.
 
 ## How to use?
